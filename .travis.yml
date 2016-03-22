@@ -1,5 +1,6 @@
 language: php
-rvm: 
-  - 5.5.32
-  - 7.0.4
+php: 
+  - '5.4'
+  - '5.5'
+  - '7.0'
 gemfile: hello_world.php
