@@ -2,4 +2,4 @@ language: php
 rvm: 
   - 5.5.32
   - 7.0.4
-script: 
+gemfile: hello_world.php
